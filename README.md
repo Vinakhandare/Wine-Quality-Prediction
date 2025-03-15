@@ -1,14 +1,14 @@
 # Wine-Quality-Prediction
 
-* **Key Concepts and Challenges**
+**Key Concepts and Challenges**
 
-** Chemical Attributes** – Analyze features like density, acidity, alcohol content, and pH to predict wine quality.
+**Chemical Attributes** – Analyze features like density, acidity, alcohol content, and pH to predict wine quality.
 
-** Data Analysis Libraries** – Utilize Pandas for data manipulation and NumPy for numerical operations.
+**Data Analysis Libraries** – Utilize Pandas for data manipulation and NumPy for numerical operations.
 
-** Data Visualization** – Leverage Seaborn and Matplotlib to explore patterns and relationships in the dataset.
+**Data Visualization** – Leverage Seaborn and Matplotlib to explore patterns and relationships in the dataset.
 
-* **Learning Objectives**
+**Learning Objectives**
   
    ✔ Understand the impact of chemical properties on wine quality.
 
